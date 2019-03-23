@@ -3,7 +3,7 @@ In this project, you'll generate your own Seinfeld TV scripts using RNNs. You'll
 
 More details in Udacity's [github repo](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb)!
 
-The generated script... could you use some more hyperparam tuning, but did achieve the goal of > 3.5 loss.
+The generated script... could you use some more hyperparam tuning, but did achieve the goal of < 3.5 loss.
 
 ```
 elaine:) you know what?(laughs)
